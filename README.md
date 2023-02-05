@@ -1,6 +1,14 @@
 # blog_app
 
-A new Flutter project.
+A Flutter blog app
+
+## Mohamed Abdirhamna Ahmed Ca119704
+
+
+## I used nodejs rest api to build this flutter blog app
+
+## link of the 
+- api https://github.com/DevNadaara/blog.git
 
 ## Getting Started
 
