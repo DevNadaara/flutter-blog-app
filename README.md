@@ -7,8 +7,8 @@ A Flutter blog app
 
 ## I used nodejs rest api to build this flutter blog app
 
-## link of the 
-- api https://github.com/DevNadaara/blog.git
+## link of the api 
+  - https://github.com/DevNadaara/blog.git
 
 ## Getting Started
 
