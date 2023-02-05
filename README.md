@@ -2,7 +2,7 @@
 
 A Flutter blog app
 
-## Mohamed Abdirhamna Ahmed Ca119704
+## Mohamed Abdirahman Ahmed C119704
 
 
 ## I used nodejs rest api to build this flutter blog app
